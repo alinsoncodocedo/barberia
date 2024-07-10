@@ -1,0 +1,30 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Add {
+    text-align: center;
+    background-color: rgb(140, 217, 243);
+}
+
+.Edit{
+    text-align: center;
+    background-color: rgb(166, 225, 245);
+}
+
+.Find{
+    text-align: center;
+    background-color: rgb(166, 225, 245);
+}
+
+.Delete{
+    text-align: center;
+    background-color: rgb(166, 225, 245);
+}
+
+.inpt{
+    border: 0;
+    border-radius: 4px;
+    margin: 3px;
+    height: 25px;
+}
